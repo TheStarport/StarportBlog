@@ -16,6 +16,9 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-global-radius: 0;
+  --ifm-heading-margin-bottom: 0px;
+  --ifm-heading-margin-top: 0px;
+  --ifm-leading: 15px;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -60,16 +63,8 @@ html {
   height: 100%
 }
 
-body{
-  height: auto !important;
-}
-
-body {
+.main-wrapper {
   background-color: rgba(0, 0, 0, 0.6);
-}
-
-footer .container {
-  width: 100%;
 }
 
 h1,
@@ -91,12 +86,15 @@ p {
 
 main.col {
   background-color: rgba(2, 17, 20, 0.65);
-  overflow-y: auto;
   border-color: rgb(2, 157, 187);
   border-style: solid;
   border-width: 1px;
   padding-top: 1%;
   padding-bottom: 1%;
+  overflow-y: scroll;
+  height: 85vh;
+  min-width: 1200px;
+  margin: auto;
 }
 
 aside.col {
@@ -109,10 +107,11 @@ aside.col {
   border-color: rgb(2, 157, 187);
   border-style: solid;
   border-width: 1px;
+  display: none;
 }
 
 .navbar {
-  background-color: rgba(2, 17, 20, 0.65);
+  background-color: rgba(2, 17, 20, 0.85);
   border-bottom-color: rgb(2, 157, 187);
   border-bottom-style: solid;
   border-bottom-width: 4px;
@@ -162,7 +161,6 @@ a {
   border-color: #4bf2f6;
   text-shadow: rgba(172, 249, 251, 0.65) 0 0 4px;
   color: #acf9fb;
-  font-family: 'Titillium Web', sans-serif;
   animation: fadein 1s;
   text-decoration: none;
 }
@@ -177,4 +175,50 @@ button {
 
 .navbar__logo {
   display: none;
+}
+
+.margin-bottom--xl{
+margin-bottom:1rem !important;
+}
+
+.navbar__items--right{  
+display: none;
+}
+
+.margin-vert--md{
+  margin-top: 5px !important;
+  margin-bottom: 25px !important;  
+}
+
+img{
+  border-color: rgb(2, 157, 187);
+  border-style: solid;
+  border-width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-color: rgb(2, 157, 187);
+  border-style: solid;
+  border-width: 1px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+row{
+  margin-right: 0px;
+}
+
+.row.col--1{
+  width: 0px;
+}
+
+.row.col--7{
+  width: 0px;
 }
