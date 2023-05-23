@@ -91,10 +91,9 @@ main.col {
   border-width: 1px;
   padding-top: 1%;
   padding-bottom: 1%;
-  overflow-y: scroll;
   height: 85vh;
-  min-width: 1200px;
-  margin: auto;
+  min-width: auto;
+  height: 100%;
 }
 
 aside.col {
@@ -107,7 +106,6 @@ aside.col {
   border-color: rgb(2, 157, 187);
   border-style: solid;
   border-width: 1px;
-  display: none;
 }
 
 .navbar {
