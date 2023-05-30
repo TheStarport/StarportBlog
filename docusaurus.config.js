@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Starport Blog',
+  title: 'The Starport',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -39,6 +39,7 @@ const config = {
       ({
         blog: {
           showReadingTime: true,
+          blogSidebarCount: 10,
         },
         docs: false,
         theme: {
@@ -54,16 +55,41 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'The Starport Blog',
+        title: 'The Starport',
         logo: {
           alt: 'The Starport Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            to: '/blog', 
+            to: '/blog',
+            target: '_self', 
             label: 'Blog', 
             position: 'left'
+          },
+          {
+            to: 'https://wiki.the-starport.net',
+            target: '_self', 
+            label: 'Wiki', 
+            position: 'left'
+          },
+          {
+            to: 'https://the-starport.net/freelancer/forum/',
+            target: '_self', 
+            label: 'Forum', 
+            position: 'left'
+          },
+          {
+            to: 'https://discord.gg/tnrm4CB', 
+            label: 'Discord', 
+            position: 'left',
+            
+          },
+          {
+            to: 'https://github.com/TheStarport', 
+            label: 'The Forge', 
+            position: 'left',
+            
           }
         ],
       },
