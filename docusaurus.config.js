@@ -49,6 +49,10 @@ const config = {
     ],
   ],
 
+  clientModules: [
+    require.resolve('./random-avatars.ts'),
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({

@@ -2,3 +2,8 @@ sarge:
   name: "Sarge"
   title: "TSP Event Manager"
   image_url: "/img/author-avatars/sarge.webp"
+laz:
+  name: "Laz"
+  title: "TSP Community Admin"
+  url: https://github.com/Lazrius
+  image_url: https://github.com/Lazrius.png
