@@ -100,6 +100,7 @@ p {
 
 .main-wrapper {
   background-color: rgba(0, 0, 0, 0.6);
+  overflow-y: scroll;
 }
 
 .menu {
@@ -241,7 +242,6 @@ button {
 }
 
 .container{
-overflow-y: scroll;
 height: 93vh;
 margin-right: 0px;
 margin-left: 0px;
