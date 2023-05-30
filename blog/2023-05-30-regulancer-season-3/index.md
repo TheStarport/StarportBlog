@@ -8,11 +8,11 @@ tags: ["regulancer", "events", "author: sarge"]
 # Regulancer: Season 3
 
 Greetings Freelancers!
-I'm happy to announce the 3rd Season of "Regulancer" powered by Starport and the Freelancer Galactic Community. 
+I'm happy to announce the 3rd Season of "Regulancer" powered by the Starport and the Freelancer Galactic Community. 
 
-In the 3rd Season, we will see some showcases of New Universe and BMOD (Better Modernised Combat Mod). The new special Event will be a Classic Mod Day where the Hoster will start a temporary server of an old classic Mod.
+In the 3rd Season, we will see some showcases of the New Universe and BMOD (Better Modernised Combat Mod). The new special Event will be a Classic Mod Day where the host will start a temporary server of an old classic mod.
 
-More information will follow in the next weeks. stay tuned for more!
+More information will follow in the next few weeks. stay tuned for more!
 
 ## What is Regulancer?
   
@@ -33,6 +33,6 @@ Regulancer is an event series that takes place every last weekend of the month. 
      - Hosted by "**Beagle**"
      - Streamlink: [Beagle´s Twitch Channel](https://www.twitch.tv/beagsandjam)
 
-Detailed information about time and topics will follow in a few weeks, you can also join the [Starport Community Discord Server](https://discord.com/invite/c6wtsBk) for more information.
+Detailed information about times and topics will follow in a few weeks, you can also join the [Starport Community Discord Server](https://discord.com/invite/c6wtsBk) for more information.
 
 ![The regulancer flyer, showing dates for each event that is taking place as part of the series.](./regulancer-s3-flyer.png)
