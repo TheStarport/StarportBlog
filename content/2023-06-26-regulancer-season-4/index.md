@@ -39,4 +39,4 @@ Regulancer is an event series that takes place every last weekend of the month. 
    - Streamlink: [XxSARGExX979´s Twitch Channel](https://www.twitch.tv/dedarkstar)
 
 Detailed information about time and topics will follow in a few weeks, you can also join the The Starport Discord for more information: [The Starport Discord Server](https://discord.com/invite/c6wtsBk)
-![The regulancer flyer, showing dates for each event that is taking place as part of the series.](./regulancer-s4-flyer.png)
+![The regulancer flyer, showing dates for each event that is taking place as part of the series.](./regulancer_s4_flyer.png)
