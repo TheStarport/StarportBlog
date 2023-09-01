@@ -20,7 +20,7 @@ More information will follow in the next weeks. Stay tuned for more!
 
 ## What is Regulancer?
   
-Regulancer is an event series that takes place every last weekend of the month. in this series, mods and projects related to the topic of Freelancer can present themselves during a showcase event or can prepare a server event for a call of playing together. These events are also streamed live on the platforms Youtube or Twitch so that everyone has the opportunity to be there.
+Regulancer is an event series that takes place every last weekend of the month. In this series, mods and projects related to the topic of Freelancer can present themselves during a showcase event or can prepare a server event for a call of playing together. These events are also streamed live on the platforms Youtube or Twitch so that everyone has the opportunity to be there.
 
 # Schedule
 
