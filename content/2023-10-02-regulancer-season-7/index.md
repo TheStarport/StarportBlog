@@ -32,7 +32,7 @@ Regulancer is an event series that takes place every last weekend of the month. 
  - **28th of October**
 	 - ***Freelancer Chaos Mod***
 	 - Hosted by **Laz**
-	 - Streamlink: [DeDarkstar's Twitch Channel](https://www.twitch.tv/dedarkstar)
+	 - Streamlink: [Laz's Twitch Channel](https://www.twitch.tv/wingsoflazrius)
  - **29th of October**
 	 - **Freelancer Vanilla Bingo** 
 	 - Hosted by **Abscond**
