@@ -26,7 +26,7 @@ The contents of the old forums have been moved over and will remain available fo
 - FLHook 4.1 development is continuing as planned, and the above tasks will not impede progress on it.
 
 ## Footnotes
-If you previously had an account with us, you can recover your account by [resetting your password](https://the-starport.com/forums/reset). If you have any issues claiming your account or registering a new account, please email us [here](admin@the-starport.com) or get in touch with us on the [Starport Discord](https://the-starport.net/discord).
+If you previously had an account with us, you can recover your account by [resetting your password](https://the-starport.com/forums/reset). If you have any issues claiming your account or registering a new account, please email us [here](mailto:admin@the-starport.com) or get in touch with us on the [Starport Discord](https://the-starport.net/discord).
 
 We’d like to take this opportunity to thank W0dka, FriendlyFire and the old staff team for hosting the Starport for so long. We hope they’ll stick around the new forums and remain part of the community going forward into the future.
 
