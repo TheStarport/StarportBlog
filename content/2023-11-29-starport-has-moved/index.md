@@ -1,7 +1,7 @@
 ---
 slug: "starport-has-moved"
 title: "The Starport Has Moved!"
-authors: ["Laz"]
+authors: ["laz"]
 tags: ["site update", "author: Laz"]
 ---
 
