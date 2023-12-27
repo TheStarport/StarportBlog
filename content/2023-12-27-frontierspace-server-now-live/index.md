@@ -1,8 +1,8 @@
 ---
 slug: "frontierspace-server-now-live"
 title: "Frontierspace Multiplayer Server Now Live!"
-authors: ["IrateRedKite"]
-tags: ["mod update", "author: IrateRedKite"]
+authors: ["irateredkite"]
+tags: ["mod update", "author: irateredkite"]
 ---
 
 # Frontierspace Multiplayer Server Now Live!
