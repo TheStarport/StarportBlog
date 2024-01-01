@@ -1,3 +1,10 @@
+---
+slug: "regulancer-season-9"
+title: "Regulancer: Season 9"
+authors: ["sarge"]
+tags: ["regulancer", "events", "author: sarge"]
+---
+
 # REGULANCER SEASON 9
 
 Happy New Year Freelancers!
