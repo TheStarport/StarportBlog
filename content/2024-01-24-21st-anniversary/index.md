@@ -10,12 +10,12 @@ Stay tuned for upcoming updates and we hope to see you all when we once again ce
 **Freelancer New Universe**
 Date: 29 FEBRUARY
 Host: **Takashi**
-Stream:  <https://www.twitch.tv/drctakashi>
+Stream: [drctakashi](https://www.twitch.tv/drctakashi)
 
 **Freelancer Sirius Revival**
 Date: 01 MARCH
 Host: **Skotty**
-Stream: <https://www.twitch.tv/skotty__>
+Stream: [skotty__](https://www.twitch.tv/skotty__)
 
 **Discovery Freelancer**
 Date: 02 MARCH
@@ -25,17 +25,17 @@ Stream: TBA
 **Freelancer Chaos Mod**
 Date: 03 MARCH
 Host: **Laz**
-Stream: <https://www.twitch.tv/beagsandjam>
+Stream: [beagsandjam](https://www.twitch.tv/beagsandjam)
 
 **Freelancer 21st Anniversary**
 Date: 04 MARCH
 Host: **Takashi**
-Stream: <https://www.twitch.tv/drctakashi>
+Stream: [drctakashi](https://www.twitch.tv/drctakashi)
 
 **Homelancer**
 Date: 05 MARCH
 Host: **Volken**
-Stream: <https://www.twitch.tv/skotty__>
+Stream: [skotty__](https://www.twitch.tv/skotty__)
 
 *Let us together grow, prosper and flourish!*
 
